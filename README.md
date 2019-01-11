@@ -3,6 +3,7 @@ A repo for my solutions to the codewars.com katas
 
 Here is the list of the Katas I solved on codewars.com in reverse cronological order:
 
+- [Human readable time](https://www.codewars.com/kata/human-readable-time/train/javascript)
 - [Josephus permutation](https://www.codewars.com/kata/josephus-permutation/train/javascript)
 - [Josephus survivor](https://www.codewars.com/kata/josephus-survivor/train/javascript)
 - [Connect four 1](https://www.codewars.com/kata/connect-four-1/train/javascript)
