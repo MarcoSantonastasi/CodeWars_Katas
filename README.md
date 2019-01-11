@@ -3,6 +3,7 @@ A repo for my solutions to the codewars.com katas
 
 Here is the list of the Katas I solved on codewars.com:
 
+- [Connect four 1](https://www.codewars.com/kata/connect-four-1/train/javascript)
 - [Regex password validation](https://www.codewars.com/kata/regex-password-validation/train/javascript)
 - [Where is vasya](https://www.codewars.com/kata/where-is-vasya/train/javascript)
 - [Slaphead](https://www.codewars.com/kata/slaphead/train/javascript)
