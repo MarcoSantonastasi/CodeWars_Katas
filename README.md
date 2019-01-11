@@ -3,6 +3,7 @@ A repo for my solutions to the codewars.com katas
 
 Here is the list of the Katas I solved on codewars.com:
 
+- [Rectangle into squares](https://www.codewars.com/kata/rectangle-into-squares/train/javascript)
 - [Valid braces](https://www.codewars.com/kata/valid-braces/train/javascript)
 - [Valid parentheses](https://www.codewars.com/kata/valid-parentheses/train/javascript)
 - [Bouncing balls](https://www.codewars.com/kata/bouncing-balls/train/javascript)
