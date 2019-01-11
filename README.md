@@ -3,6 +3,7 @@ A repo for my solutions to the codewars.com katas
 
 Here is the list of the Katas I solved on codewars.com in reverse cronological order:
 
+- [Bingo or not](https://www.codewars.com/kata/bingo-or-not/train/javascript)
 - [Human readable time](https://www.codewars.com/kata/human-readable-time/train/javascript)
 - [Josephus permutation](https://www.codewars.com/kata/josephus-permutation/train/javascript)
 - [Josephus survivor](https://www.codewars.com/kata/josephus-survivor/train/javascript)
