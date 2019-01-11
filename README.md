@@ -3,6 +3,7 @@ A repo for my solutions to the codewars.com katas
 
 Here is the list of the Katas I solved on codewars.com:
 
+- [Slaphead](https://www.codewars.com/kata/slaphead/train/javascript)
 - [The observed pin](https://www.codewars.com/kata/the-observed-pin/train/javascript)
 - [Rectangle into squares](https://www.codewars.com/kata/rectangle-into-squares/train/javascript)
 - [Valid braces](https://www.codewars.com/kata/valid-braces/train/javascript)
