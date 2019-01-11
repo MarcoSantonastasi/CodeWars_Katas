@@ -1,8 +1,9 @@
 # CodeWars_Katas
 A repo for my solutions to the codewars.com katas
 
-Here is the list of the Katas I solved on codewars.com:
+Here is the list of the Katas I solved on codewars.com in reverse cronological order:
 
+- [Josephus survivor](https://www.codewars.com/kata/josephus-survivor/train/javascript)
 - [Connect four 1](https://www.codewars.com/kata/connect-four-1/train/javascript)
 - [Regex password validation](https://www.codewars.com/kata/regex-password-validation/train/javascript)
 - [Where is vasya](https://www.codewars.com/kata/where-is-vasya/train/javascript)
@@ -17,4 +18,3 @@ Here is the list of the Katas I solved on codewars.com:
 - [Unique in order](https://www.codewars.com/kata/unique-in-order/train/javascript)
 - [Isograms](https://www.codewars.com/kata/isograms/train/javascript)
 - [Multiples of 3 or 5](https://www.codewars.com/kata/multiples-of-3-or-5/train/javascript)
-
