@@ -12,7 +12,7 @@ function solution(number){
 }
 
 console.log(
-  solution(10,23)
+  solution(10), " <=> 23"
 );
 
 // OFFICIAL SOLUTION
