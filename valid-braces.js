@@ -19,3 +19,28 @@ function validBraces(braces){
 console.log(
   validBraces( "[(])" ), " <=> false"
 );
+
+// OFFICIAL SOLUTION
+
+function validBraces(braces){
+ while(/\(\)|\[\]|\{\}/g.test(braces)){braces = braces.replace(/\(\)|\[\]|\{\}/g,"")}
+ return !braces.length;
+}
+
+// Test cases
+
+Test.assertEquals(validBraces( "()" ), true);
+Test.assertEquals(validBraces( "[]" ), true);
+Test.assertEquals(validBraces( "{}" ), true);
+Test.assertEquals(validBraces( "(){}[]" ), true);
+Test.assertEquals(validBraces( "([{}])" ), true);
+Test.assertEquals(validBraces( "(}" ), false);
+Test.assertEquals(validBraces( "[(])" ), false);
+Test.assertEquals(validBraces( "({})[({})]" ), true);
+Test.assertEquals(validBraces( "(})" ), false);
+Test.assertEquals(validBraces( "(({{[[]]}}))" ), true);
+Test.assertEquals(validBraces( "{}({})[]" ), true);
+Test.assertEquals(validBraces( ")(}{][" ), false);
+Test.assertEquals(validBraces( "())({}}{()][][" ), false);
+Test.assertEquals( validBraces( "(((({{" ), false);
+Test.assertEquals( validBraces( "}}]]))}])" ), false);
