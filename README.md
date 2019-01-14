@@ -3,6 +3,7 @@ A repo for my solutions to the codewars.com katas
 
 Here is the list of the Katas I solved on codewars.com in reverse cronological order:
 
+- [Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format/train/javascript)
 - [Mahjong #1 pure hand](https://www.codewars.com/kata/mahjong-number-1-pure-hand/train/javascript)
 - [Bingo](https://www.codewars.com/kata/bingo/train/javascript)
 - [Bingo or not](https://www.codewars.com/kata/bingo-or-not/train/javascript)
