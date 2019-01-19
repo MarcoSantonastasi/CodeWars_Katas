@@ -1,4 +1,4 @@
-//
+// https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript
 
 
 // My solution
