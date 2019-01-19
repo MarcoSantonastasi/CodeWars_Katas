@@ -3,6 +3,7 @@ A repo for my solutions to the codewars.com katas
 
 Here is the list of the Katas I solved on codewars.com in reverse cronological order:
 
+- [Objectify a URL query string](https://www.codewars.com/kata/objectify-a-url-query-string/train/javascript)
 - [Multiplying numbers as strings](https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript)
 - [Sum strings as numbers](https://www.codewars.com/kata/sum-strings-as-numbers/train/javascript)
 - [Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format/train/javascript)
