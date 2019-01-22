@@ -6,7 +6,7 @@ Here is the list of the Katas I solved on codewars.com in reverse cronological o
 - [Vigenere cipher helper](https://www.codewars.com/kata/vigenere-cipher-helper/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/d8aa651ee301497f1ec25e91945d73b8f80cb80a/vigenere-cipher-helper.js#L3)
 - [Sudoku solution validator](https://www.codewars.com/kata/sudoku-solution-validator/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/baa66e2f45c6b95c2ca38e7d84c56ae348e2e95c/sudoku-solution-validator.js#L3)
 - [Snail](https://www.codewars.com/kata/snail/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/25babea8585de2c5d933a972efa0c1476044cddc/snail.js#L3)
-- [Escape the mines](https://www.codewars.com/kata/escape-the-mines/train/javascript)
+- [Escape the mines](https://www.codewars.com/kata/escape-the-mines/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/28b1b2829d9f1c675a1de6c1eb251a3055a4d6d8/escape-the-mines.js#L3)
 - [Weight for weight](https://www.codewars.com/kata/weight-for-weight/train/javascript)
 - [rgb to hex conversion](https://www.codewars.com/kata/rgb-to-hex-conversion/train/javascript)
 - [Objectify a URL query string](https://www.codewars.com/kata/objectify-a-url-query-string/train/javascript)
