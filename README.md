@@ -14,7 +14,7 @@ Here is the list of the Katas I solved on codewars.com in reverse cronological o
 - [Sum strings as numbers](https://www.codewars.com/kata/sum-strings-as-numbers/train/javascript)
 - [Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format/train/javascript)
 - [Mahjong #1 pure hand](https://www.codewars.com/kata/mahjong-number-1-pure-hand/train/javascript)
-- [Bingo](https://www.codewars.com/kata/bingo/train/javascript)
+- [Bingo](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/c86b977d870ed1a538aa199ed54ebf17452f51c0/bingo.js#L3) (https://www.codewars.com/kata/bingo/train/javascript)
 - [Bingo or not](https://www.codewars.com/kata/bingo-or-not/train/javascript)
 - [Human readable time](https://www.codewars.com/kata/human-readable-time/train/javascript)
 - [Josephus permutation](https://www.codewars.com/kata/josephus-permutation/train/javascript)
