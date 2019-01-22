@@ -16,7 +16,7 @@ function convertQueryToMap(query) {
 }
 
 console.log( convertQueryToMap('user.name.firstname=Bob&user.name.lastname=Smith&user.favoritecolor=Light%20Blue'),
-    " <=> { 'user': { 'name': { 'firstname': 'Bob', 'lastname': 'Smith' }, 'favoritecolor': 'Light Blue' } )
+    " <=> { 'user': { 'name': { 'firstname': 'Bob', 'lastname': 'Smith' }, 'favoritecolor': 'Light Blue' } ")
     
     // OFFICIAL SOLUTION
     
