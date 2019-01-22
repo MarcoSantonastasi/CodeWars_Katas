@@ -3,7 +3,7 @@ A repo for my solutions to the codewars.com katas
 
 Here is the list of the Katas I solved on codewars.com in reverse cronological order:
 
-- [Vigenere cipher helper](https://www.codewars.com/kata/vigenere-cipher-helper/train/javascript)
+- [Vigenere cipher helper](https://www.codewars.com/kata/vigenere-cipher-helper/train/javascript)[[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/d8aa651ee301497f1ec25e91945d73b8f80cb80a/vigenere-cipher-helper.js#L3)
 - [Sudoku solution validator](https://www.codewars.com/kata/sudoku-solution-validator/train/javascript)
 - [Snail](https://www.codewars.com/kata/snail/train/javascript)
 - [Escape the mines](https://www.codewars.com/kata/escape-the-mines/train/javascript)
