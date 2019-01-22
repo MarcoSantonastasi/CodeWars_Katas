@@ -13,7 +13,7 @@ Here is the list of the Katas I solved on codewars.com in reverse cronological o
 - [Multiplying numbers as strings](https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript)
 - [Sum strings as numbers](https://www.codewars.com/kata/sum-strings-as-numbers/train/javascript)
 - [Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format/train/javascript)
-- [Mahjong #1 pure hand](https://www.codewars.com/kata/mahjong-number-1-pure-hand/train/javascript)
+- [Mahjong #1 pure hand](https://www.codewars.com/kata/mahjong-number-1-pure-hand/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/7ec6d3529985c13809717b5e7e24694360af331b/mahjong-number-1-pure-hand.js#L3)
 - [Bingo](https://www.codewars.com/kata/bingo/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/c86b977d870ed1a538aa199ed54ebf17452f51c0/bingo.js#L3)
 - [Bingo or not](https://www.codewars.com/kata/bingo-or-not/train/javascript)
 - [Human readable time](https://www.codewars.com/kata/human-readable-time/train/javascript)
