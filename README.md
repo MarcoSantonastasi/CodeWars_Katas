@@ -9,7 +9,7 @@ Here is the list of the Katas I solved on codewars.com in reverse cronological o
 - [Escape the mines](https://www.codewars.com/kata/escape-the-mines/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/28b1b2829d9f1c675a1de6c1eb251a3055a4d6d8/escape-the-mines.js#L3)
 - [Weight for weight](https://www.codewars.com/kata/weight-for-weight/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/c3bd8c51ad4492919a2aeda96f02970332586815/weight-for-weight.js#L3)
 - [rgb to hex conversion](https://www.codewars.com/kata/rgb-to-hex-conversion/train/javascript)
-- [Objectify a URL query string](https://www.codewars.com/kata/objectify-a-url-query-string/train/javascript) .js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/1190e0a4639d9dd1bd4e35c32393d5045656d9c0/objectify-a-url-query-string.js#L3)
+- [Objectify a URL query string](https://www.codewars.com/kata/objectify-a-url-query-string/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/1190e0a4639d9dd1bd4e35c32393d5045656d9c0/objectify-a-url-query-string.js#L3)
 - [Multiplying numbers as strings](https://www.codewars.com/kata/multiplying-numbers-as-strings/train/javascript)
 - [Sum strings as numbers](https://www.codewars.com/kata/sum-strings-as-numbers/train/javascript)
 - [Human readable duration format](https://www.codewars.com/kata/human-readable-duration-format/train/javascript)
