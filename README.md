@@ -3,6 +3,7 @@ A repo for my solutions to the codewars.com katas
 
 Here is the list of the Katas I solved on codewars.com in reverse cronological order:
 
+- [Escape the mines](https://www.codewars.com/kata/escape-the-mines/train/javascript)
 - [Weight for weight](https://www.codewars.com/kata/weight-for-weight/train/javascript)
 - [rgb to hex conversion](https://www.codewars.com/kata/rgb-to-hex-conversion/train/javascript)
 - [Objectify a URL query string](https://www.codewars.com/kata/objectify-a-url-query-string/train/javascript)
