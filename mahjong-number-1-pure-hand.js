@@ -2,6 +2,42 @@
 
 // My solution
 
+function solution (hand){
+  let rs = ''
+  for (let r = 1; r <= 9; r++) {
+    const ys = hand
+      .concat(r)
+      .split('')
+      .sort()
+      .join('')
+    if (ys.match(/(\d)\1{4}/)) continue
+    for (const y of ys.match(/(\d)\1/g)) {
+      let zs = ys.replace(y, '')
+      while (zs.length) {
+        const z = zs.charAt()
+        if (zs.match(z + z + z)) {
+          zs = zs.replace(z + z + z, '')
+          continue
+        }
+        if (zs.match(z) && zs.match(+z + 1) && zs.match(+z + 2)) {
+          zs = zs
+            .replace(z, '')
+            .replace(+z + 1, '')
+            .replace(+z + 2, '')
+          continue
+        }
+        break
+      }
+      if (zs.length) continue
+      rs += r
+      break
+    }
+  }
+  return rs
+}
+
+console.log(solution("1113335557779"), " => 89"
+
 // OFFICIAL SOLUTION
 
 let melds = '111|222|333|444|555|666|777|888|999|123|234|345|456|567|678|789'.split`|`.map(m=>[...m])
