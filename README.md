@@ -1,6 +1,9 @@
 # CodeWars_Katas
 A repo for my solutions to the codewars.com katas
 
+![My Kyu](https://www.codewars.com/users/MarcoSantonastasi/badges/large "My Kyu")
+
+
 Here is the list of the Katas I solved on codewars.com in reverse cronological order:
 
 - [JSON account updater](https://www.codewars.com/kata/json-account-updater/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/4de5cdf27807a7ae1b18a1e754fa6cb83d001da1/json-account-updater.js#L3)
