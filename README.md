@@ -6,6 +6,7 @@ A repo for my solutions to the codewars.com katas
 
 Here is the list of the Katas I solved on codewars.com in reverse cronological order:
 
+- [6 by 6 skyscrapers](https://www.codewars.com/kata/6-by-6-skyscrapers/train/javascript)
 - [JSON account updater](https://www.codewars.com/kata/json-account-updater/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/4de5cdf27807a7ae1b18a1e754fa6cb83d001da1/json-account-updater.js#L3)
 - [The lift](https://www.codewars.com/kata/the-lift/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/bf1cc90a16db614c52c894852eee62b2c86dbed9/the-lift.js#L3)
 - [Vigenere cipher helper](https://www.codewars.com/kata/vigenere-cipher-helper/train/javascript) [[.js file]](https://github.com/MarcoSantonastasi/CodeWars_Katas/blob/d8aa651ee301497f1ec25e91945d73b8f80cb80a/vigenere-cipher-helper.js#L3)
